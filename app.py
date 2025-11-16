@@ -7,8 +7,7 @@ import time
 HF_TOKEN = st.secrets["HF_TOKEN"]
 
 # More stable and faster multilingual model
-API_URL = "https://api-inference.huggingface.co/models/facebook/mbart-large-50-many-to-many-mmt"
-
+API_URL = "https://router.huggingface.co/hf-inference/models/facebook/nllb-200-distilled-600M"
 HEADERS = {"Authorization": f"Bearer {HF_TOKEN}"}
 # -----------------------------------------
 
@@ -85,3 +84,4 @@ if st.button("Translate"):
 
 st.markdown("---")
 st.caption("Prototype by AfricanaAI | Powered by Hugging Face")
+

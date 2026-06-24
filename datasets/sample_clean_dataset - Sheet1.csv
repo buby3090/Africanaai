@@ -1,0 +1,300 @@
+Hausa_Text,English_Translation,Intent,Tone,Domain
+Ina Kwana? ,Good Morning,Greeting,Polite,Daily Life
+Ina Wuni?,Good Afternoon / Good Evening ,Greeting,Polite,Daily Life
+Barka da Safiya,Good Morning / How is your morning?,Greeting,Polite,Daily Life
+Barka da Rana,Good Afternoon / How is your Afternoon?,Greeting,Polite,Daily Life
+Barka da Yamma,Good Evening / How is your Evening,Greeting,Polite,Daily Life
+Barka da Dare,How is your Night?,Greeting,Polite,Daily Life
+Ya Kake?,How are You?,Greeting,Neutral / Friendly,Daily Life
+Ya Kike?,How are You?,Greeting,Neutral / Friendly,Daily Life
+Kana Lafiya?,Are you Okay? / Are you well?,Well-being Check,Polite / Concerned,Daily Life
+Kina Lafiya?,Are you Okay? / Are you well?,Well-being Check,Polite / Concerned,Daily Life
+Yaya Iyali? ,How is your Family? ,Well-being Check ,Polite / Caring ,Family 
+Yaya mutanen gida? ,How is everyone at home? ,Well-being Check ,Polite / Caring ,Family 
+Ya gida? ,How is the Household? / How is everything at Home? ,Well-being Check ,Polite / Caring ,Family 
+Yaya al'amuran gida? ,How are things at home? ,Well-being Check ,Polite / Serious / Caring,Family 
+"Alhamdulillah, Komai Lafiya. ","Praise be to Allah, Everything is fine. ",Status / Response,Positive ,Greeting / Health
+"Alhamdulillah, Kowa Lafiya. ","Praise be to Allah, Everyone is Fine. ",Status / Response ,Positive ,Greeting / Health
+Kowa Yana Nan Lafiya. ,Everyone if Fine / Everyone is doing well ,Statement / Response ,Positive ,Greeting / Health 
+lafiya lau ,Very Fine,Response ,Positive ,Greeting / Health 
+lafiya lau nike,I am very fine,Self - report ,Positive ,Greeting / Health 
+lafiya lau take,She is very fine,Statement ,Positive ,Greeting / Health 
+lafiya lau muke,We are very fine,Statement ,Positive ,Greeting / Health 
+lafiya lau yake,He is very fine,Statement ,Positive ,Greeting / Health 
+Sunanan Lafiya Lau,They are very fine,Statement ,Positive ,Greeting / Health 
+Tana Nan lafiya lau,She is very fine / She is doing very well ,Statement ,Positive ,Greeting / Health 
+Yana Nan Lafiya Lau ,He is very fine / He is doing very well ,Statement ,Positive ,Greeting / Health 
+Suna Nan lafiya lau ,They are very fine / They are doing very well ,Statement ,positive ,Greeting/ Health 
+Bani lafiya,I am not fine / I am not well,Health Complaint ,Negative ,Health 
+Bata lafiya,She is not fine / She is not weel,Health Complaint ,Negative ,Health 
+Baya Lafiya,He is not fine / He is not feeling fine / He is not well,Health Complaint ,Negative ,Health 
+Bashi lapia ,He is not fine / He is not feeling fine / He is not well,Health Complaint ,Negative ,Health 
+Basu Lafiya,They are not well / They are not Feeling fine,Health Complaint ,Negative ,Health 
+Basu Jin dadi,They are not feeling well,Health Complaint ,Negative ,Health 
+Ya sunanka? ,What is your Name? ,Identity Inquiry ,Neutral ,Identity 
+Ya sunanki? ,What is your Name? ,Identity Inquiry ,Neutral ,Identity
+Yaushe zaka zo? ,When are you coming? When will you come? ,Time Inquiry ,Neutral ,Time / Event 
+Yaushe zaku zo? ,When are you coming? When will you (plural) come? ,Time Inquiry ,Neutral ,Time / Event
+Yaushe zaki zo? ,When are you coming? when will you come? ,Time Inquiry ,Neutral ,Time / Event
+Yaushe zanzo? ,When should I Come? When will I come? ,Time Inquiry ,Neutral ,Time / Event
+Yaushe zata zo? ,When is she coming? when will she come? ,Time Inquiry ,Neutral ,Time / Event
+Baya Jin dadi ,He is not feeling well,Health Complaint ,Neutral ,Health 
+Bata Jin dadi,She is not feeling well ,Health Complaint ,Neutral ,Health 
+Ina Zaku? ,Where are you (plural) going? ,Location Inquiry ,Neutral ,Movement / Location 
+Ina Zaki? ,Where are you going? ,Location Inquiry ,Neutral ,Movement / Location 
+Ina Zaka,Where are you going? ,Location Inquiry ,Neutral ,Movement / Location 
+Kuna Ina ne? ,Where are you (Plural)?,Location Inquiry,Neutral ,Location 
+Yaushe zaku zo? ,When are you coming (plural)? / When will you Come? ,Time Inquiry ,Neutral ,Time / Event
+Ina Zaki je ne? ,Where will you go? / Where are you going? ,Location Inquiry ,Neutral ,Location  / Movement 
+Ina Zaka je ne? ,Where will you go?/ Where are you going? ,Location Inquiry ,Neutral ,Location / Movement 
+Yaushe zaka zo? ,When will you come?/ when are you coming? ,Time Inquiry ,Neutral ,Time / Event
+Yaushe zaki zo? ,When will you come? / When are you coming? ,Time Inquiry,Neutral ,Time / Event
+gobe da safe zanzo,I will come tomorrow morning ,Time Statement ,Neutral ,Time / Event
+sai gobe da yanma zanzo,I will come tomorrow evening,Time Statement ,Neutral ,Time / Statement
+na kusa zuwa insha Allah ,"I am about to come, Allah Willing",Commitment / Assurance ,Positive ,Time / Movement 
+Mi Kake so? ,What do you want? ,Request Inquiry ,Neutral ,Desire / Request 
+Mi kike so? ,What do you want? ,Request Inquiry ,Neutral ,Desire / Request 
+Mi kuke so? ,What do you want (plural)?,Request Inquiry ,Neutral ,Desire / Request 
+Ganinka nikeson yi,I want to see you,Statement of intent,Positive ,Social / Romantic interaction 
+Ganinki nake son yi,I want to see you ,Statement of intent ,Positive ,Social / Romantic interaction 
+Ganinku nake son yi,I want to see you (Plural),Statement of Intent ,Positive ,Social 
+Ta Ina kuka biyo? ,Which way did you come from? / which way did you follow? ,Route Inquiry ,Neutral ,Movement / Location 
+Ta Ina kika biyo? ,Which way did you come from? / Which way did you follow? ,Route Inquiry ,Neutral ,Movement / Location 
+Ta Ina ka biyo? ,Which way did you come from? / Which way did you follow? ,Route Inquiry,Neutral ,Movement / Location
+"Bakuda aiki, sai kokowa",You dont have anything to do but fighting each other.,Statement,Negative ,Socio-Economic
+kar ka kara biye mashi,"Dont follow him again, in doing this act.",Warning / Advice,Neutral,Instruction
+Kasa zaku tafi?,Are you going via legs? / Are you going via foot?,Travel Mode Inquiry ,Neutral ,Movement 
+Kudin abun hawa za'a baku? ,You will be given transport Money? ,Information Inquiry ,Neutral ,Finance / Transport 
+tare da kai zamu tafi?,Shall we go with you? are going together? ,Confirmation Inquiry ,Neutral ,Movement / Social 
+tare da ke zamu tafi?,Shall we go with you? Are we going together? ,Confirmation Inquiry ,Neutral ,Movement / Social 
+Tare daku zamu tafi?,Shall we go with you? are we going together? ,Confirmation Inquiry ,Neutral ,Movement / Social 
+Inason cin nama,I like eating meat / I want to eat meat,Desire Statement ,Positive ,Food / Preference 
+inason taya ka fira,I want to chat with you,Desire / Request ,Positive ,Social Interaction
+nifa banson cin dan wake,I don't like eating son of beans / Beans Dumplings,Statement ,Negative ,Food / Preference
+Inason cin Indomie,I like eating Indomie,Desire Statement ,Positive ,Food / Preference 
+Ina son cin Taliya,I like eating Pasta,Desire Statement ,Positive ,Food / Preference 
+zo ka kama a daka maku yaji,"Come and hold it, so we grind pepper for you",Command / Invitation ,Neutral ,Food Preparation 
+na rama maka bugun da yayi maka,I avenged the beating he gave you,Statement,Neutral,Social Interaction
+zo ka kwanta kayi bacci,Come and lie down and sleep,Command ,Neutral,Daily Routine
+zo ki kwanta kiyi bacci,Come and lie down and sleep,Command,Neutral,Daily Routine
+zo ku kwanta kuyi bacci,Come and lie down and sleep,Command,Neutral,Daily Routine
+Ina aka samu Indomie?,Where was Indomie gotten? / Where did you get Indomie?,Source Inquiry,Neutral,Food / Purchase
+Zoka daka kaima,Come and grind as well,Command,Neutral,Food Preparation 
+idan baka iya ba kada kayi,"If you can’t do it, don’t do it / If you don't know how to do it, dont do it",Advice / Warning,Neutral,Instruction
+kayi hakuri don Allah,Please be patient / I’m sorry,Request / Apology,Polite,Social Interaction
+Wannan baya jin magana,This one does not listen / You are too disturbing,Statement,Negative ,Behavior
+Wannan bata jin magana,This one does not listen / You are too disturbing,Statement,Negative ,Behavior
+wannan basu jin magana,This one does not listen / You are too disturbing,Statement,Negative ,Behavior
+hoto kawai nasan nayi,I only know I took a photo / I only took a picture,Statement,Neutral,Action / Media
+daka kikeyi?,Are you grinding?,Action Inquiry,Neutral,Food Preparation 
+Tsame dan waken nan,Pick this bean dumpling / pick the son of bean from the hot water,Command,Neutral,Food Handling
+Kar ka daukar mana ruwa,Dont take our water,Prohibition,Neutral,Houshold
+Ruwa zaka sha?,Will you drink water? ,Offer / Inquiry,Neutral,Food / Drink
+Waya debo Ruwan?, Who fetched the water?,Agent Inquiry,Neutral,Houshold
+Ruwa nake son sha,I want to drink water,Desire Statement ,Neutral,Food / Drink
+Ruwa zaki sha?,Will you drink water?,Offer / Inquiry,Neutral,Food / Drink
+Ruwa zaku sha?,Will you drink water?,Offer / Inquiry,Neutral,Food / Drink
+Na gode,Thank you / I am grateful,Gratitude,Positive ,Social Interaction
+Sun gode,They thanked / They are grateful,Statement,Positive ,Social Interaction
+Ya gode,He thanked / He is grateful,Statement,Positive ,Social Interaction
+Ta gode,She thanked / She is grateful,Statement,Positive ,Social Interaction
+Ban gode ba,I did not thank / I am not grateful,Statement,Negative ,Social Interaction
+Bata Gode ba,She did not thank / She is not grateful,Statement,Negative ,Social Interaction
+Basu gode ba,They did not thank / They are not grateful,Statement,Negative ,Social Interaction
+Baya da godiya,He is not grateful,Statement,Negetive,Socal Interaction
+Basu da godiya,They are not grateful,Statement,Negetive,Social Interaction
+Bata da godiya,She is not grateful,Statement,Negetive,Social Interaction
+Na kusa yin hakuri,I was about to be patient / I was about to forgive,Statement,Neutral,Emotion / Behavior
+Banyi Hakuri ba,I did not forgive / I am not patient,Statement,Negetive,Emotion / Behavior
+Basu da Hakuri,They are not patient,Statement,Negetive,Emotion / Behavior
+Baya da Hakuri,He is not patient,Statement,Negetive,Emotion / Behavior
+Bata da Hakuri,She is not patient,Statement,Negetive,Emotion / Behavior
+Ita mutuniyar kirki ce,She is a good person,Statement,Positive ,Character / Morality
+shi mutumin kirki ne,He is a good person,Statement,Positive ,Character / Morality
+su mutanen kirki ne,They are good people,Statement,Positive ,Character / Morality
+kai fa baka da kirki,You are not a good person,Statement,Negetive,Character / Morality
+ita fa bata da kirki,She is not a good person,Statement,Negetive,Character / Morality
+shifa baya da kirki,He is not a good person,Statement,Negetive,Character / Morality
+Karki kara biye mashi,"Dont follow him again, in doing this act.",Warning / Advice,Neutral,Instruction
+Ya sunanta ma aka ce?,What is her name they said?,Identity Inquiry,Neutral,Identity
+zan tura ka zaka je ka jiyo mashi magana,I will send you; you will go and hear about his marriage issue,Statement / Instruction,Neutral,Task / Marriage related
+wannan waya taka tana wurin chagi,That your phone is in charging Station,Statement,Neutral,Technology
+wannan surikin naku baida mutunci,This your in-law has no respect / manner,Statement,Negative,Social / Character
+ance shine keda matsala,It is said that he is the one with the problem,Statement,Neutral,Social / Conflict
+Mutane suna shan wahalar rayuwa,People are suffering in this life,Statement,Negative,Socio-Economic
+Mugun halinshi ne yaja mashi,His bad character caused it to him,Statement,Negative,Character / Consequence
+ashe nan dubu hamsin ne,So it is fifty thousand naira here,Statement,Neutral,Finance
+dozen biyar ne na lissafa,I counted five dozens,Statement,Neutral,Counting / Quantity
+Allah ya bamu abunda zamu baku,May God give us what we will give you,Prayer / Wish,Positive,Religion / Social
+Ke wallahi mahaukaciya ce,"You are crazy, I swear / You are mad, I swear",Statement,Negative,Insult / Behavior
+Kai wallahi mahaukaci ne,"You are crazy, I swear / You are mad, I swear",Statement,Negative,Insult / Behavior
+Faɗa za ka ja kenan?,So you are looking for a fight?,Conflict Inquiry,Negative,Conflict / Behavior
+Faɗa za ki ja kenan?,So you are looking for a fight?,Conflict Inquiry,Negative,Conflict / Behavior
+Sannu amarya,"Congratulations, bride / You are welcome, bride",Greeting / Congratulations,Positive,Social / Marriage
+Ana ta bikinki,Your wedding is going on,Celebratory Statement,Positive,Social / Marriage
+An gaida amarya,The bride has been greeted,Celebratory Statement,Positive,Social / Marriage
+Ikon Allah ne kawai,It is only by the power of God / its only by the will of Allah,Statement,Positive,Religion
+Soyayya ta yi daɗi,Love is sweet / the love lead to pleasure,Statement,Positive,Emotion / Relationship
+Harkar ta faɗa ne?,Is the deal on track?,Status Inquiry,Neutral,Business / Project
+Tsuntsun soyayyar ya tashi,The bird of love has flown,Statement,Positive,Emotion / Relationship
+Ruwa za ka ba ni in sha?,Will you give me water to drink?,Request Inquiry,Neutral,Food / Drink
+Ruwa za ki ba ni in sha?,Will you give me water to drink?,Request Inquiry,Neutral,Food / Drink
+Gwanar yin girki ce,She is very good at cooking,Statement,Positive,Skill / Ability
+Kawar amarya ce,She is the bride’s friend,Statement,Neutral,Social / Marriage
+Ta yi kama da Bahaushiya,She looks like a Hausa woman,Statement,Neutral,Identity / Appearance
+Ya yi kama da Bahaushe,He looks like a Hausa man,Statement,Neutral,Identity / Appearance
+Menene al’adunku?,What are your traditions?,Culture Inquiry,Neutral,Culture / Tradition
+Hausawa ne su fa,They are Hausa people,Statement,Neutral,Identity / Ethnicity
+Sakamakon haraji bai yi kyau ba,The result of the tax is not good,Statement,Negative,Economy / Governance
+Ka ji ɗan son zuciya ko?,"You see a bit of selfishness, right? ",Opinion Inquiry,Negative,Behavior / Ethics
+Wato fa kowa fitarsa yake dubawa,So everyone is looking out for himself,Statement,Negative,Social Behavior
+A ci daɗi lafiya,Enjoy life in good health / Enjoy the sweatness of the food,Wish / Expression,Positive,Social / Well-being
+Daɗi na da kai akwai wayau,You are impressing me due to your cleverness ,Statement,Positive,Behavior / Values
+Kana da son kanka,You are selfish,Statement,Negative,Behavior / Ethics
+Ba don al’umma yake yi ba,He is not doing it for the community and people,Statement,Negative,Social / Ethics
+Yana yi ne don kaunar kansa,He is doing it out of self-love,Statement,Negative,Behavior / Motivation
+Siyasa ba ta da riba,Politics has no benefit,Statement,Negative,Politics / Society
+Jam’iyyarsu ta ’yan haɗama ce,Their party is a greedy one,Statement,Negative,Politics / Society
+Yaushe za a ceto ƙasarmu daga azzaluman shugabanni?,When will our country be saved from oppressive leaders?,Time Inquiry,Negative,Politics / Governance
+Shugabanci a Najeriya yana da wahala,Leadership in Nigeria is difficult,Statement,Neutral,Politics / Governance
+Cin hanci ya yi yawa a wannan ƙasa,Corruption is rampant in this country,Statement,Negative,Politics / Governance
+Buƙatar kanka ita ce ka sanya a gaba,You are putting your own needs at the fore-front,Statement,Negative,Behavior
+Tun farko haka ya kamata ka faɗa,You should have said that from the beginning,Advice / Criticism,Neutral,Communication
+Ba kyau yin ƙarya,Lying is not good / its prohibited to lie,Statement,Negative,Ethics / Morality
+Hula ba ka son kowa a samanka,You don’t want anyone above you,Statement,Negative,Behavior / Attitude
+Mulki yake nema ido rufe,He seeks power blindly,Statement,Negative,Politics / Behavior
+Kana da abin mamaki,You are surprising,Statement,Neutral,Personal Trait
+Ko jaki ka kawo mana za mu zaɓe shi,"Even if you bring a donkey, we will vote for it",Statement,Negative,Politics / Satire
+Ba su da kishin yankunansu,They have no concern for their regions,Statement,Negative,Politics / Society
+Sun ba ka takarar gwamna,They challenged you for the governorship,Statement,Neutral,Politics / Election
+Suna son shi sosai,They like him very much,Statement,Positive,Social / Opinion
+Wanda ya ji daɗi ya yi min like,Whoever likes it should give me a like,Request / Call to Action,Neutral,Social Media
+"Shi ne maganar gaskiya, jagora","This is the truth, leader",Statement,Positive,Leadership / Opinion
+Ai kuwa har abada kai da takara,"Indeed, forever you will never contest as a candidate",Statement,Negetive,Politics / Support
+Babu wanda ke kishin talaka kamar kai,No one cares for the poor like you,Statement,Positive,Social / Leadership
+Amana sai ɗan amana,Trust belongs only to the trustworthy,Statement,Neutral,Ethics / Values
+Kwaɗayi mabudin wahala,Greed is the key to hardship,Statement,Negative,Ethics / Values
+Wannan mutumin fa ya tsufa,This man is old,Statement,Neutral,Personal Attribute
+Ba wawaye ba ne ba mu fa,We are not fools,Statement,Neutral,Self-Assertion
+Kai ka renawa sauran ’yan jam’iyya wayau,You are playing with the other party members wisdom,Statement,Negetive,Politics / Leadership
+Yaushe kake tsammani za a ce kai kaɗai ne na gari?,When do you think they will say you alone are good?,Rhetorical Inquiry,Negative,Social / Opinion
+Za su ba ka ne don suna tsoronka,They will give it to you because they fear you,Statement,Neutral,Social / Power
+Wannan abu ne mai sauƙi,This thing is easy,Statement,Neutral,Assessment
+Ya bayyana matakin da zai ɗauka,He explained the step he will take / He explained the decision he will made,Statement,Neutral,Decision / Planning
+Wajibi ne ka je a binciki lafiyarka,It is necessary you go check your health,Obligation / Advice,Neutral,Health
+Dole ki daina irin wannan wautar,You must stop this kind of foolishness,Command / Warning,Negative,Behavior
+Wajibi ne ki je a binciki lafiyarki,You must go and check your health,Obligation / Advice,Neutral,Health
+Anya alƙalin da ake ce masa ya tabbata kuwa?,Are we sure the judge they talk about is genuine?,Doubt Inquiry,Neutral,Justice / Governance
+Yana yin wasu halayya da ba su da kyau,He exhibits some bad behaviors,Statement,Negative,Behavior / Ethics
+Za mu bincika sosai don mu tabbatar,We will investigate thoroughly to confirm,Statement,Neutral,Investigation
+Muna kira ga al’umma da su yi haƙuri,We call on the public to be patient,Appeal / Request,Neutral,Public Communication
+Abin da suke yi ya saba wa hankali,What they are doing is against reason,Statement,Negative,Behavior / Reasoning
+Kuma ya ce dole a kira shi da haka,And he said he must be called that,Statement,Neutral,Communication / Identity
+In ba shi da lafiya ya kamata ya yi magana,"If he is not well, he should speak up",Advice,Neutral,Health / Communication
+Mu rika yi wa juna adalci a cikin magana,Let us be fair to one another in speech,Appeal / Advice,Neutral,Ethics / Communication
+"Ba ka son rubutu a kan abin alheri, sai sharri","You don’t like writing about good things, only bad",Statement,Negative,Behavior / Media
+Aibata mutane ba ya da kyau,Insulting people is not good / Saying something bad about people is bad,Statement,Negative,Ethics / Morality
+Ni ban ga wani abin aibu a nan ba,I don’t see anything wrong here,Statement,Neutral,Opinion / Judgment
+Babu wanda ke ba da lafiya sai Allah,No one gives health except Allah,Statement,Positive,Religion / Belief
+Kana da son nemo kuskuren mutane,You like finding people’s faults,Statement,Negative,Behavior / Ethics
+Kai ma ba ka da lafiya gaskiya,"You too are not well, honestly",Statement,Negative,Health / Behavior
+Idan mutumin nan ya so zai iya daure ka,"If that man wants, he can restrain you",Statement,Neutral,Power / Threat
+Haukace cikin wannan rubutun,There is madness in this write-up,Statement,Negative,Opinion / Critique
+Mu yi gaba kafin su zo,Let us move ahead before they come,Command / Suggestion,Neutral,Movement / Planning
+Mu yi gaba kafin ya zo,Let us move ahead before he comes,Command / Suggestion,Neutral,Movement / Planning
+Mu yi gaba kafin ta zo,Let us move ahead before she comes,Command / Suggestion,Neutral,Movement / Planning
+Ka fito da kuɗinka,Bring out your money,Command,Neutral,Finance / Instruction
+Yau da gobe sai Allah,Today or tomorrow is up to Allah,Statement,Neutral,Religion / Fate
+Dakko mini abinci in ci,Bring me food so I can eat,Command / Request,Neutral,Food / Request
+In wurgo maka shi?,I will throw it to you?,Throwing Inquiry,Neutral,Action / Transfer
+Na kusa isa,I am almost there,Status Statement,Neutral,Movement / Status
+Ban isa ba har yanzu,I have not arrived yet,Status Statement,Negative,Movement / Status
+Mutuwa ce za ta raba mu,Only death will separate us,Statement,Neutral,Emotion / Relationship
+Nan ba da dadewa ba,Not long ago,Narration,Neutral,General
+Ki bi a hankali dai,Please take it slowly,Command,Calm,Daily life
+Na dade ina son in yi abin na kasa,I have long wanted to do something but failed,Confession,Sad,Personal
+Cikin iyalinsa yake,He is within his family,Statement,Neutral,Family
+Ba ta son a zauna lafiya,She does not want us to be in peace,Complaint,Serious,Social
+Ya nuna takaicinsa a fili,He openly showed his frustration,Narration,Serious,Emotional
+Jika na ne,He is my grandson,Statement,Neutral,Family
+Jika ta ce,She is my granddaughter,Narration,Neutral,Family
+Ba a kawo min ko daya ba,Not even one was brought to me,Complaint,Sad,Daily life
+Abokaina na amana,My trusted friends,Statement,Warm,Social
+Ina fada musu koda yaushe,I always tell them,Statement,Serious,Social
+Dan kudu ne shi fa,He is from the South,Identification,Neutral,Identity
+Dan Arewa ne shi fa,He is from the North,Identification,Neutral,Identity
+Kai dangata ne,You are a pampered child,Affirmation,Warm,Family
+An kasa samun daidaito a Nigeria,Balance has not been achieved in Nigeria,Observation,Serious,Politics/Society
+Yaushe za mu daidaita ni da ke,When will you and I reconcile,Question,Emotional,Relationship
+Daidaitawar mu na da wahala fa,Our reconciliation is difficult,Statement,Sad,Relationship
+Ta tafi gidan su kawarta ba a sani ba,"She went to her friend’s house secretly, without knowing anybody",Narration,Serious,Social
+Tsautsayi ne ya sa haka ya faru,It was an accident that caused it,Explanation,Neutral,General
+Ki daina tuna min ranar nan,Stop reminding me of that day,Command,Upset,Emotional
+Ban son in tuna abin da ya faru,I don’t like remembering what happened,Confession,Sad,Emotional
+Idan na tuna raina ba dadi yake yi,"When I remember, I feel unhappy",Emotional expression,Sad,Emotional
+Kuskuren da ka yi kenan,That is the mistake you made,Accusation,Serious,Conflict
+Mi yasa baka fadi mata ba?,Why didn’t you tell her?,Question,Serious,Social
+Dole ne fa ki bamu labari,You must tell us the story,Command,Serious,Social
+Labarin ne nake son inji,I want to hear the story,Statement,Neutral,Social
+Labari mai dadi zaki bani,You will give me a good story,Statement,Hopeful,Social
+Labari mai dadi zaka bani,You will give me a good story,Statement,Hopeful,Social
+Mudan shimfida wannan dardumar,Let us spread this mat,Command,Neutral,Daily life
+Musha ruwa mana,Let us drink water,Invitation,Calm,Daily life
+Wannan iya yin yana bani mamaki,This behavior surprises me,Observation,Surprised,Social
+Muka dauki kafa muka tafi har garinsu,We take our legs and went to their town,Narration,Serious,Social
+Mun ta zagayen layi ba mu ga wurin ba,We walked around the area but did not find the place,Narration,Neutral,Daily life
+Mun je gidan su kawata,We went to my friend’s house,Narration,Neutral,Social
+"Wasa fa yake yi maki, baki gane ba","He is just playing with you, don’t you understand",Reproach,Serious,Relationship
+A fadi mani inda yarinyar nan ta je,Tell me where the girl went,Command,Serious,Family
+Ki fadi mani ina zaki,Tell me where you are going,Command,Serious,Family
+Ka fadi mani ina zaka,Tell me where you are going,Command,Serious,Family
+Yawon ne da ka saba zaka fita ko,Is it your usual roaming that you are going out for,Question,Accusatory,Social
+Kin je kin zubar da ladarki a gidan su kawa,You went and disgraced your reward at your friend’s house,Accusation,Angry,Family
+Ba ki zo kin nuna wa iyayenki ba,You did not come to inform your parents,Reproach,Serious,Family
+Naci gidan mu sosai a wurin Baba,I was desciplined so much by my father,Statement,Desplined ,Family
+Banyi tunanin abun zai kai haka ba,I did not think it would go this far,Confession,Surprised,Personal
+Mama na don Allah ki daina fadi,My mother please stop talking,Command,Pleading,Family
+Zuciyata tashi take yi,My heart is racing,Emotional expression,Anxious,Emotional
+Wa ya kaika ka yi wannan aikin?,Who sent you to do this work?,Question,Serious,Social
+Aiki ya biyo ni,The work followed me,Explanation,Neutral,Work
+Allah yana halitta dai-dai da zamani,God creates according to the times,Reflection,Serious,Religion
+Babu mai wayon wannan yarinyar,No one is as clever as this girl,Assertion,Admiring,Social
+Yarinyar nan wayonta ya baci,This girl’s cleverness is dangerous,Accusation,Serious,Social
+Yaron fa ba shi da wayau,The boy is not smart,Statement,Critical,Social
+Budurwata ba ta da wayon wannan yarinyar,My girlfriend is not as clever as this girl,Comparison,Serious,Relationship
+Gado ba karambani ba,"Character is inherited, not bought",Proverb,Serious,Culture
+Wallahi har yanzu ban yarda ba,I swear I still do not believe,Statement,Emphatic,Personal
+Yarinyar nan ita ce take wannan maganar,This girl is the one saying these things,Accusation,Serious,Social
+Wayon ya yi yawa gaskiya,The cleverness is too much indeed,Observation,Serious,Social
+Lalle wannan za ta ci kudin samari,Surely this one will take young men’s money,Warning,Critical,Social
+Nan gaba akwai kura a wannan duniya,In the future there is danger in this world,Warning,Serious,Life
+Idan kun mutu na suma wannan ba mutum bane,"If you die and I faint, that is not a human act",Statement,Angry,Social
+Za ku yi nadama a kan abin da kuke yi,You will regret what you are doing,Warning,Serious,Social
+Da gani za ta yi ilimi sosai,"From her looks, she will be very educated",Observation,Hopeful,Education
+An daina haifar mutane fa yanzu,People are no longer being born these days,Observation,Serious,Society
+Rashin kunya kike koya mata,You are teaching her shamelessness,Accusation,Serious,Family
+Allah ya yi maki albarka yarinyar kirki,"May God bless you, good girl",Prayer,Warm,Religion
+Wanda ya rasa mi zai ce ya yi mani like,Whoever doesn’t know what to say should like my post,Statement,Casual,Social media
+Wannan yarinyar tana da shegen wayo,This girl is extremely clever,Assertion,Admiring,Social
+Wannan surutunta ya yi yawa,This talk of hers is too much,Complaint,Annoyed,Social
+Wallahi ina masifar son yarinyar nan,I swear I really love this girl,Confession,Affectionate,Relationship
+Allah ya raya ta a kan sunnah,May God raise her upon the Sunnah,Prayer,Sincere,Religion
+Wagga ya akwai kilbibi wallahi,"This girl is so much overreacting, honestly",Observation,Concerned,Social
+Wannan labari ya faru a gabana,This incident happened in front of me,Narration,Serious,Social
+Wata rana na bi ta hanya da dare,One day I was walking along the road at night,Narration,Serious,Daily life
+Mutane sun taru a wuri daya,People gathered in one place,Narration,Neutral,Social
+Me ne yake faruwa a nan?,What is happening here?,Question,Concerned,Social
+Daga ganin wannan taron ka san ba lafiya ba,From seeing the crowd you know something is wrong,Observation,Serious,Social
+Gawar jariri aka tsinta,The died body of a baby was found,Narration,Sad,Social
+Cinnaka da sauran kwari suna cizonsa,Flea and insects is biting him,Narration,Sad,Social
+Tarmani ma fa sunan cinnaka ne,Tarmani is also the name for Flea,Clarification,Neutral,Education
+Sanadiyyar mutuwarsa kenan,That was the cause of his death,Explanation,Sad,Social
+Abun ya sanya min bakin ciki sosai,The matter made me very sad,Emotional expression,Sad,Emotional
+Rashin imani ya yi yawa haka,Lack of faith has become too much,Observation,Serious,Religion
+Wallahi cikin shege ta yi,I swear she committed adultery,Accusation,Angry,Social
+Ta haihu ta saki jaririn ta yi tafiyarta,"She gave birth, abandoned the baby, and left",Narration,Sad,Social
+Ki zauna da cikin shege na wata tara ki kasa renon sa,You carried the pregnancy for nine months and couldn’t raise the child,Reproach,Serious,Family
+Ba ta da aure fa,She is not married,Statement,Serious,Social
+Abin kunya an riga an yi,The shame has already been done,Observation,Serious,Social
+Wasu matan ba su jin tsoron Allah,Some women do not fear Allah,Observation,Serious,Religion
+Ki ka bar jaririn naki ya mutu?,Did you allow your baby to die?,Question,Angry,Family
